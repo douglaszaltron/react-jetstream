@@ -1,0 +1,14 @@
+{
+  "name": "@react-jetstream/tsconfig-config",
+  "version": "0.1.0",
+  "private": false,
+  "license": "MIT",
+  "main": "index.json",
+  "scripts": {},
+  "dependencies": {
+    "typescript": "^4.2.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

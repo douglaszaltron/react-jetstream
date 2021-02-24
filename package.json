@@ -1,0 +1,20 @@
+{
+  "name": "react-jetstream",
+  "author": "Douglas Zaltron <douglaszaltron@gmail.com>",
+  "private": true,
+  "npmClient": "yarn",
+  "useWorkspaces": true,
+  "version": "independent",
+  "scripts": {
+    "publish": "lerna publish"
+  },
+  "packages": [
+    "packages/*"
+  ],
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}

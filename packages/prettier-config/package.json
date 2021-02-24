@@ -1,0 +1,14 @@
+{
+  "name": "@react-jetstream/prettier-config",
+  "version": "0.1.0",
+  "private": false,
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "prettier": "^2.2.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
